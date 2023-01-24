@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "edb5e424-77ef-4883-a56a-21cf2a0e3ae6"
+      }
+    },
+    "owner": "sangbinlee"
   }
 }
